@@ -1,0 +1,15 @@
+in Terminal
+
+conda create -n mathSem python=3.8 -y
+
+conda activate mathSem
+
+conda deactivate
+
+conda env remove --name mathSem
+
+conda --version
+
+conda info
+
+conda env list

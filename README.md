@@ -9,7 +9,7 @@
 | `dictionaries.ipynb`        | 🧾 Python dictionaries – how to use and manipulate key-value pairs |
 | `heartFailure.ipynb`        | ❤️ Intro to health data analytics using the heart.csv dataset |
 | `heartFailurePrediction.ipynb` | 🤖 A first look into AI: using a Perceptron to predict heart failure |
-| `notes.txt`                 | 📝 Personal or seminar notes |
+| `notes.txt`                 | 📝 Some enviroment notes |
 | `D heart.csv`               | 📁 Dataset used in the heart-related notebooks |
 
 ---
